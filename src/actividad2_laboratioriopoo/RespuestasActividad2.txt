@@ -1,0 +1,9 @@
+4. Identificar las clases que heredan, ¿qué atributos y métodos heredan?
+  
+5. Identificar las clases que conforman una composición.
+6. ¿Qué es una superclase y una subclase?
+7. ¿Por qué usamos abstract? ¿Se puede dejar de heredar un método de una clase abstracta?
+8. ¿Qué anotación utilizo para sobreescribir métodos?
+9. Los atributos de la clase Figura Geométrica conviértalas en protected. ¿En qué condición 
+convierte a los atributos? ¿Es posible acceder a los atributos protegidos sin utilizar una 
+invocación a super() o sin método get?.
